@@ -13,5 +13,24 @@ The various tables are Banking Relationship, Client-Banking, Gender, Investment 
    Banking table.
 4. Creating a new column named as Processing Fees for the column Fee Structure like if fee structure is high then processing 
    fee would be 0.05
-
+## Calculated Functions
+1. sum
+2. DistinctCount
+3. sumx
+4. switch
+5. DATEDIFF
+## KPI'S
+1. Total Clients
+2. Total Loans
+3. Bank Loan
+4. Business Lending
+5. Total Deposit
+6. Total Fees
+7. Checking Account Amount
+8. Bank Deposit
+9. Total CC Amount
+10. Saving Account Amount
+11. Foreign Currency Amount
+12. Engagement Account
+13. Credit Cards Balance
 
