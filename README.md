@@ -33,11 +33,18 @@ The various tables are Banking Relationship, Client-Banking, Gender, Investment 
 11. Foreign Currency Amount
 12. Engagement Account
 13. Credit Cards Balance
-## Visualisations
-1. - <a href="https://github.com/ChanduC2/Banking-Customer-Insights-Financial-Analytics-Dashboard-/blob/main/Home.png">Home</a>
-2. - <a href="https://github.com/ChanduC2/Banking-Customer-Insights-Financial-Analytics-Dashboard-/blob/main/Loan%20Analysis.png">Loan Analysis</a>
-3. - <a href="https://github.com/ChanduC2/Banking-Customer-Insights-Financial-Analytics-Dashboard-/blob/main/Deposit%20Analysis.png">Deposit Analysis</a>
-4.  - <a href="https://github.com/ChanduC2/Banking-Customer-Insights-Financial-Analytics-Dashboard-/blob/main/Summary.png">Summary</a>
+## Dashboard
+1. Home Page
 <img width="1325" height="740" alt="Home" src="https://github.com/user-attachments/assets/fbce3d5e-72bb-489b-9c5f-f2a783dddc2f" />
+2. Load Analysis Page
+   <img width="1323" height="735" alt="Loan Analysis" src="https://github.com/user-attachments/assets/64fad225-d6ab-43c7-8a7a-2eca2a7e0314" />
+3. Deposit Analysis Page
+<img width="1321" height="733" alt="Deposit Analysis" src="https://github.com/user-attachments/assets/6d4f9dfe-842c-4774-a178-90a08f100e6f" />
+4. Summary Page
+<img width="1322" height="736" alt="Summary" src="https://github.com/user-attachments/assets/60e7f6fd-ac88-4faf-8339-636478ea5809" />
+## Conclusion
+Empowered by the latest data visualization techniques, Power BI dashboards are among the most effective resources for using in banking sector. As outlined in this write-up, a banking  operations dashboard in Power BI can be developed with key banking related metrics and KPIs.
+
+
 
 
