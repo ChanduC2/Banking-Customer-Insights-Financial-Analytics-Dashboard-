@@ -42,7 +42,9 @@ The various tables are Banking Relationship, Client-Banking, Gender, Investment 
 <img width="1321" height="733" alt="Deposit Analysis" src="https://github.com/user-attachments/assets/6d4f9dfe-842c-4774-a178-90a08f100e6f" />
 4. Summary Page
 <img width="1322" height="736" alt="Summary" src="https://github.com/user-attachments/assets/60e7f6fd-ac88-4faf-8339-636478ea5809" />
+
 ## Conclusion
+
 Empowered by the latest data visualization techniques, Power BI dashboards are among the most effective resources for using in banking sector. As outlined in this write-up, a banking  operations dashboard in Power BI can be developed with key banking related metrics and KPIs.
 
 
