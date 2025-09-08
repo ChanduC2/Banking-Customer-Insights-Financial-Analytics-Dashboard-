@@ -38,4 +38,6 @@ The various tables are Banking Relationship, Client-Banking, Gender, Investment 
 2. - <a href="https://github.com/ChanduC2/Banking-Customer-Insights-Financial-Analytics-Dashboard-/blob/main/Loan%20Analysis.png">Loan Analysis</a>
 3. - <a href="https://github.com/ChanduC2/Banking-Customer-Insights-Financial-Analytics-Dashboard-/blob/main/Deposit%20Analysis.png">Deposit Analysis</a>
 4.  - <a href="https://github.com/ChanduC2/Banking-Customer-Insights-Financial-Analytics-Dashboard-/blob/main/Summary.png">Summary</a>
+<img width="1325" height="740" alt="Home" src="https://github.com/user-attachments/assets/fbce3d5e-72bb-489b-9c5f-f2a783dddc2f" />
+
 
