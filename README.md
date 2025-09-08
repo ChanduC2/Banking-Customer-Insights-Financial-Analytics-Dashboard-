@@ -34,5 +34,8 @@ The various tables are Banking Relationship, Client-Banking, Gender, Investment 
 12. Engagement Account
 13. Credit Cards Balance
 ## Visualisations
-1. - - <a href="https://github.com/ChanduC2/Banking-Customer-Insights-Financial-Analytics-Dashboard-/blob/main/Banking.xlsx">Dataset</a>
+1. - <a href="https://github.com/ChanduC2/Banking-Customer-Insights-Financial-Analytics-Dashboard-/blob/main/Home.png">Home</a>
+2. - <a href="https://github.com/ChanduC2/Banking-Customer-Insights-Financial-Analytics-Dashboard-/blob/main/Loan%20Analysis.png">Loan Analysis</a>
+3. - <a href="https://github.com/ChanduC2/Banking-Customer-Insights-Financial-Analytics-Dashboard-/blob/main/Deposit%20Analysis.png">Deposit Analysis</a>
+4.  - <a href="https://github.com/ChanduC2/Banking-Customer-Insights-Financial-Analytics-Dashboard-/blob/main/Summary.png">Summary</a>
 
